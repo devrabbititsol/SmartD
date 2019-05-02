@@ -9,7 +9,7 @@ import com.relevantcodes.extentreports.ExtentTest;
 @SuppressWarnings("unused")
 public class Screen1 extends BaseClass {
 	
-	public static String primaryInfo  = "{\"user_id\":7,\"is_generate\":false,\"is_execute\":false,\"is_web\":true,\"project_url\":\"https://www.devrabbit.com/\",\"report_upload_url\":\"http://192.168.1.144:80/UploadReportFile\",\"project_name\":\"TestSel\",\"project_description\":\"ds\",\"project_id\":271,\"module_name\":\"TestD\",\"module_description\":\"sdf\",\"sub_module_id\":0,\"module_id\":419,\"testcase_name\":\"TC1\",\"testcase_id\":452,\"testset_id\":0,\"executed_timestamp\":2010471972,\"browser_type\":\"chrome\"}";
+	public static String primaryInfo  = "{\"user_id\":7,\"is_generate\":false,\"is_execute\":false,\"is_web\":true,\"project_url\":\"https://www.devrabbit.com/\",\"report_upload_url\":\"http://192.168.1.144:80/UploadReportFile\",\"project_name\":\"TestSel\",\"project_description\":\"ds\",\"project_id\":271,\"module_name\":\"TestD\",\"module_description\":\"sdf\",\"sub_module_id\":0,\"module_id\":419,\"testcase_name\":\"TC2\",\"testcase_id\":453,\"testset_id\":0,\"executed_timestamp\":2011676392,\"browser_type\":\"chrome\"}";
 
 	public static String projectName = "testsel";
 	public WebDriver driver;
